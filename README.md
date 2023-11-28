@@ -13,10 +13,10 @@
 - [🔔Citation](#citation)
 
 ## News
-- **2023-10-9 We release the version 1 of the survey (https://arxiv.org/abs/2310.05694).**
-- **2023-10-18 added new paper "Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model".**
+- **2023-11-28 update.**
 - **2023-10-18 added new paper "Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue".**
-
+- **2023-10-18 added new paper "Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model".**
+- **2023-10-9 We release the version 1 of the survey (https://arxiv.org/abs/2310.05694).**
 
 ## Table of Contents
 

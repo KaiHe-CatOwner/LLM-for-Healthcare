@@ -13,6 +13,7 @@
 - [🔔Citation](#citation)
 
 ## News
+- **2023-03-17 update.new paper "Health-LLM: Personalized Retrieval-Augmented Disease Prediction System"**
 - **2023-03-17 update.new paper "HealAI: A Healthcare LLM for Effective Medical Documentation"**
 - **2023-03-17 update.new paper "BiMediX: Bilingual Medical Mixture of Experts LLM"**
 - **2023-03-17 update.new paper "JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability"**

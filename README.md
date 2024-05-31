@@ -13,7 +13,15 @@
 - [🔔Citation](#citation)
 
 ## News
-- **2023-05-31 update.new paper "Healai: A healthcare llm for effective medical documentation"** 
+- **2023-05-31 update.new paper "Healai: A healthcare llm for effective medical documentation"**
+- **2023-05-31 update.new paper "Polaris: A Safety-focused LLM Constellation Architecture for Healthcare"**
+- **2023-05-31 update.new paper "Medical mT5: an open-source multilingual text-to-text LLM for the medical domain"**
+- **2023-05-31 update.new paper "Apollo: An Lightweight Multilingual Medical LLM towards Democratizing Medical AI to 6B People"**
+- **2023-05-31 update.new paper "LLM-CXR: INSTRUCTION-FINETUNED LLM FOR CXR IMAGE UNDERSTANDING AND GENERATION"**
+- **2023-05-31 update.new paper "Me LLaMA: Foundation large language models for medical applications"**
+- **2023-05-31 update.new paper "BioMistral: A collection of open-source pretrained large language models for medical domains"**
+- **2023-05-31 update.new paper "OncoGPT: A medical conversational model tailored with oncology domain expertise on a large language model Meta-AI (LLaMA)"**
+
 - **2023-03-17 update.new paper "Health-LLM: Personalized Retrieval-Augmented Disease Prediction System"**
 - **2023-03-17 update.new paper "HealAI: A Healthcare LLM for Effective Medical Documentation"**
 - **2023-03-17 update.new paper "BiMediX: Bilingual Medical Mixture of Experts LLM"**
@@ -27,7 +35,7 @@
 
 - Introduction  
 - What LLMs Can Do for Healthcare? From Fundamental Tasks to Advanced Applications 
-  - NER and RE for Healthcare  
+  - NER and RE for Healthcare  Alpacare
   - Text Classification for Healthcare 
   - Semantic Textual Similarity for Healthcare 
   - Question Answering for Healthcare 

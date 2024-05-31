@@ -13,7 +13,7 @@
 - [🔔Citation](#citation)
 
 ## News
-- **2023-05-31 update.new paper "Healai: A healthcare llm for effective medical documentation"**
+
 - **2023-05-31 update.new paper "Polaris: A Safety-focused LLM Constellation Architecture for Healthcare"**
 - **2023-05-31 update.new paper "Medical mT5: an open-source multilingual text-to-text LLM for the medical domain"**
 - **2023-05-31 update.new paper "Apollo: An Lightweight Multilingual Medical LLM towards Democratizing Medical AI to 6B People"**

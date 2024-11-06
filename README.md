@@ -132,6 +132,7 @@ are more valued for Healthcare professionals
 | OphGLM                 | ChatGLM        | 6                 | multimodal, Ophthalmology LLM                   | 06/2023  |  https://github.com/ML-AILab/OphGLM                       |
 | SoulChat            | ChatGLM        | 6                 | Mental Healthcare                               | 06/2023  |  https://github.com/scutcyr/SoulChat                      |
 | Med-Flamingo             | Flamingo       | 80B               | multimodal, Few-Shot generative medical VQA     | 07/2023  |  https://github.com/snap-stanford/med-flamingo            |
+|[Aloe Beta](https://arxiv.org/pdf/2405.01886)|LLaMA 3.1|8, 70| Red-Teaming Alignment, Multidisciplinary |11/2024|https://huggingface.co/collections/HPAI-BSC/healthcare-llms-aloe-family-6701b6a777f7e874a2123363|
 
 ---
 <br> <br> 
